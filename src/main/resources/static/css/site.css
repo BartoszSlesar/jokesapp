@@ -1,0 +1,87 @@
+.form-container {
+    padding: 50px;
+}
+
+.page-core {
+    padding: 20px;
+
+}
+
+.login_footer_reg {
+    text-align: center;
+}
+
+.error-msg {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: red;
+    margin-left: 5px;
+}
+
+
+#error-msg {
+    color: red;
+}
+
+.error-msg li {
+    margin-top: 5px;
+}
+
+.info-msg {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: Lime;
+    margin-left: 5px;
+}
+
+#info-msg {
+    color: Lime;
+}
+
+.info-msg li {
+    margin-top: 5px;
+}
+
+.img-circle {
+    border-radius: 100%;
+}
+
+.test {
+  margin-top: 1.5rem;
+}
+
+.test a{
+  padding-left: -0.4rem
+}
+
+.customize-select {
+  padding: 0.85rem 0.5rem 0.85rem 0.5rem;
+}
+
+.btn-gray {
+  background-color: #E8E8E8;
+}
+
+.btn-outline-secondary {
+    color: #858796;
+    border: 1px solid rgb(169, 169, 169);
+    border: 1px solid rgba(169, 169, 169, .7);
+}
+
+.bg-error-lesser {
+  background: rgb(217, 83, 79);
+}
+
+.bg-info-lesser {
+  background: rgb(0,255,0);
+}
+
+
+
+.bg-alert-lesser {
+  background:  	rgb(240, 173, 78);
+}
+
+.bg-success-lesser {
+  background:  	rgb(92, 184, 92);
+}
