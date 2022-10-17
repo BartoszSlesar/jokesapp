@@ -1,7 +1,7 @@
 package pl.com.bard.model;
 
 public class Joke {
-    private Long id;
+    private Long jokeId;
     private String joke;
 
     public Joke(String joke) {
@@ -9,11 +9,11 @@ public class Joke {
     }
 
     public Long getId() {
-        return id;
+        return jokeId;
     }
 
     public void setId(Long id) {
-        this.id = id;
+        this.jokeId = id;
     }
 
     public String getJoke() {
